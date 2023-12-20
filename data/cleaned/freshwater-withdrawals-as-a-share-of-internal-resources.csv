@@ -1,0 +1,73 @@
+Country,Code,Year,water_stress_level
+Brazil,BRA,2000,2.65
+Brazil,BRA,2001,2.67
+Brazil,BRA,2002,2.68
+Brazil,BRA,2003,2.7
+Brazil,BRA,2004,2.71
+Brazil,BRA,2005,2.73
+Brazil,BRA,2006,2.74
+Brazil,BRA,2007,2.94
+Brazil,BRA,2008,3.14
+Brazil,BRA,2009,3.34
+Brazil,BRA,2010,3.54
+Brazil,BRA,2011,3.42
+Brazil,BRA,2012,3.3
+Brazil,BRA,2013,3.19
+Brazil,BRA,2014,3.07
+Brazil,BRA,2015,3.02
+Brazil,BRA,2016,3.14
+Brazil,BRA,2017,3.11
+Brazil,BRA,2018,1.46
+Brazil,BRA,2019,1.48
+Brazil,BRA,2020,1.48
+Colombia,COL,2000,1.16
+Colombia,COL,2001,1.23
+Colombia,COL,2002,1.31
+Colombia,COL,2003,1.39
+Colombia,COL,2004,1.46
+Colombia,COL,2005,1.54
+Colombia,COL,2006,1.61
+Colombia,COL,2007,1.69
+Colombia,COL,2008,1.76
+Colombia,COL,2009,2.06
+Colombia,COL,2010,2.37
+Colombia,COL,2011,2.67
+Colombia,COL,2012,2.98
+Colombia,COL,2013,3.28
+Colombia,COL,2014,3.58
+Colombia,COL,2015,3.89
+Colombia,COL,2016,4.19
+Colombia,COL,2017,4.13
+Colombia,COL,2018,4.06
+Colombia,COL,2019,4.23
+Colombia,COL,2020,4.36
+Costa Rica,CRI,2012,3.99
+Costa Rica,CRI,2013,4.21
+Costa Rica,CRI,2014,4.68
+Costa Rica,CRI,2015,5.45
+Costa Rica,CRI,2016,4.99
+Costa Rica,CRI,2017,4.16
+Costa Rica,CRI,2018,5.21
+Costa Rica,CRI,2019,5.36
+Costa Rica,CRI,2020,5.35
+Mexico,MEX,2000,25.57
+Mexico,MEX,2001,25.8
+Mexico,MEX,2002,27.12
+Mexico,MEX,2003,28.02
+Mexico,MEX,2004,28.21
+Mexico,MEX,2005,28.58
+Mexico,MEX,2006,28.88
+Mexico,MEX,2007,29.5
+Mexico,MEX,2008,29.93
+Mexico,MEX,2009,28.75
+Mexico,MEX,2010,29.87
+Mexico,MEX,2011,29.81
+Mexico,MEX,2012,31.03
+Mexico,MEX,2013,30.63
+Mexico,MEX,2014,31.86
+Mexico,MEX,2015,32.13
+Mexico,MEX,2016,32.48
+Mexico,MEX,2017,32.95
+Mexico,MEX,2018,44.46
+Mexico,MEX,2019,44.72
+Mexico,MEX,2020,44.82
