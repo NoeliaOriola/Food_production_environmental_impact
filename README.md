@@ -27,23 +27,23 @@ We posited the following questions:
 
 1. What product exhibits the highest environmental impact for all environmental markers used to measure (total emissions, nitrogen leaching, freshwater withdrawal, and land use change)? Is there a single product that ranks the highest across all of them?
 
-The product with the highest overall impact across all environmental markers is Cheese.
+   The product with the highest overall impact across all environmental markers is Cheese.
 
 2. Which step from the food production cycle is the most carbon intensive across all products?
 
-The most carbon-intensive step across all products is 'Farm' with a total of 149.20 emissions.
+   The most carbon-intensive step across all products is 'Farm' with a total of 149.20 emissions.
 
 3. Does the answer to the previous question changes if we divide products as plant and animal-based products? If so, which step becomes the most carbon intensive for each group?
 
-No, the most carbon intensive step in the lifecycle of both groups is still farming.
+   No, the most carbon intensive step in the lifecycle of both groups is still farming.
 
 4. Which of these 2 categories exhibits the highest environmental impact across all markers?
 
-Animal products have the highest impact across all markers, although when analyzing only the listed products, the difference is not as pronounced.
+   Animal products have the highest impact across all markers, although when analyzing only the listed products, the difference is not as pronounced.
 
 5. Based in the water-scarcity information available, what agricultural projects would we advise the BID to finance in our listed countries?
 
-Brazil, Colombia and Costa Rica should be able to receive funding for all projects, while for Mexico we would not advise investing in projects working with nuts, beef and cheese production. 
+   Brazil, Colombia and Costa Rica should be able to receive funding for all projects, while for Mexico we would not advise investing in projects working with nuts, beef and cheese production. 
 
 
 
