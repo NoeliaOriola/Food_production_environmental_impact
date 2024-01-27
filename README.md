@@ -1,3 +1,8 @@
+![image](https://github.com/NoeliaOriola/Food_production_environmental_impact/assets/151629602/a00b59a7-68fc-4ced-9e7e-9f9928a896fd)
+
+
+
+
 The BID, or Inter-American Development bank, hired us as consultants to assess the possible environmental impact of a series of agricultural projects for which Brazil, Colombia, Costa Rica, and Mexico are requesting funding. Funding will be granted, in this case, considering both the water footprint of the products and the water scarcity levels of the aforementioned countries
 
 
